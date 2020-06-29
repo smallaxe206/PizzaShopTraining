@@ -6,28 +6,45 @@
     - No UI and No Database
         - The focus on this training is Object Oriented. We'll get to UI and database in latter lessons. They need their own focus.
 
-# Details
+# Setup
+Fork this repo.
+
+## Collaboration
+I'll need access as a collaborator on your forked repo. See [here](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) for a guide to that.
+
 ## Branching
-* Create a 'dev' branch from 'master'
-* Create a 'Feature1' branch from 'dev'. This is where the work for the first set of features will be done.
+* Create a 'dev' branch from 'main'
+* Create a 'FeatureSet01' branch from 'dev'. This is where the work for the first set of features will be done.
  
 ## The process
 * I provide a set of requirements
-* You implement the requirements in a Git branch (Feature1, Feature2, ...)
+* You implement the requirements in a Git branch (FeatureSet01, FeatureSet02, ...)
 * When the requirements are implemented, create a Pull Request to the 'dev' branch
-* I review/approve the Pull Request and with appropriate comments
-  * This is where phase 1 and phase 2 significantly differ
-* Once we're both satisfied with the state of the code, we start back at the top of this list
+* I review/approve the Pull Request with appropriate comments and conversation
+* Once we're both satisfied with the state of the code, we start back at the top
  
 ## Testing
 As the scenario specifices, there's no need for a UI, but we need to be able to verify our code works. We will use a Unit Test framework for this; which is why the solution starts with a Test Project.
 Unit Testing is a standard practice in the industry and it's good to do. While not the focus of this training, much like Git, it's a technique for quality code that we'll use during this training.
- 
-# ***Optional*** Practices
+
+## IDE
+My primary IDE is Visual Studio. If you use a different IDE, please let me know
+There are three primary C# IDEs I'm familiar with. I know there are others (Atom and elec
+
+### Visual Studio
+[Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is a free version of Visual Studio
+
+### Visual Studio Code
+A free editor from Microsoft [Visual Studio Code](https://code.visualstudio.com/).
+
+### Rider
+Rider (https://www.jetbrains.com/rider/) is a C# IDE from JetBrains, the maker of ReSharper. There's a 30 day trial. I haven't used this much since it's introduction.
+
+# ***Optional*** Practices and Tools
 These practices are optional while you work through the requirements. They are things I've found very useful, but are not required as part of the training.
- 
+
 ### Resharper
-Resharper is a Visual Studio Extension made by JetBrains (https://www.jetbrains.com/resharper/). I won't code C# without it. It is invaluable to me for all of the assistance and speed it provides me while I'm writing code.
+Resharper is a Visual Studio Extension made by JetBrains (https://www.jetbrains.com/resharper/). I won't code C# without it. It is invaluable to me for all of the assistance and speed it provides me while I'm writing code. There's a free 30 day trial.
 
 ### Fluent Assertions
 Fluent Assertions (https://fluentassertions.com/) is a very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. 
