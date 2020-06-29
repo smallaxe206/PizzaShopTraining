@@ -29,7 +29,7 @@ Unit Testing is a standard practice in the industry and it's good to do. While n
 
 ## IDE
 My primary IDE is Visual Studio. If you use a different IDE, please let me know
-There are three primary C# IDEs I'm familiar with. I know there are others (Atom and elec
+There are three primary C# IDEs I'm familiar with. I know there are others, but i'm not gonna list every IDE that can do C#. :)
 
 ### Visual Studio
 [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is a free version of Visual Studio
