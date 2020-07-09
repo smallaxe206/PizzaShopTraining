@@ -27,24 +27,8 @@ I'll need access as a collaborator on your forked repo. See [here](https://help.
 As the scenario specifices, there's no need for a UI, but we need to be able to verify our code works. We will use a Unit Test framework for this; which is why the solution starts with a Test Project.
 Unit Testing is a standard practice in the industry and it's good to do. While not the focus of this training, much like Git, it's a technique for quality code that we'll use during this training.
 
-## IDE
-My primary IDE is Visual Studio. If you use a different IDE, please let me know
-There are three primary C# IDEs I'm familiar with. I know there are others, but i'm not gonna list every IDE that can do C#. :)
-
-### Visual Studio
-[Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) is a free version of Visual Studio
-
-### Visual Studio Code
-A free editor from Microsoft [Visual Studio Code](https://code.visualstudio.com/).
-
-### Rider
-Rider (https://www.jetbrains.com/rider/) is a C# IDE from JetBrains, the maker of ReSharper. There's a 30 day trial. I haven't used this much since it's introduction.
-
 # ***Optional*** Practices and Tools
 These practices are optional while you work through the requirements. They are things I've found very useful, but are not required as part of the training.
-
-### Resharper
-Resharper is a Visual Studio Extension made by JetBrains (https://www.jetbrains.com/resharper/). I won't code C# without it. It is invaluable to me for all of the assistance and speed it provides me while I'm writing code. There's a free 30 day trial.
 
 ### Fluent Assertions
 Fluent Assertions (https://fluentassertions.com/) is a very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. 
