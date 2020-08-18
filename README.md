@@ -15,13 +15,32 @@ I'll need access as a collaborator on your forked repo. See [here](https://help.
 ## Branching
 * Create a 'dev' branch from 'main'
 * Create a 'FeatureSet01' branch from 'dev'. This is where the work for the first set of features will be done.
- 
-## The process
-* I provide a set of requirements
-* You implement the requirements in a Git branch (FeatureSet01, FeatureSet02, ...)
-* When the requirements are implemented, create a Pull Request to the 'dev' branch
-* I review/approve the Pull Request with appropriate comments and conversation
-* Once we're both satisfied with the state of the code, we start back at the top
+
+# Phases
+There are two phases to this training.
+## Phase 1
+Do your best SOLID and Object Oriented code.
+This is an opportunity for you to apply the concepts in a greenfield codebase. There is no deadline. No rush to get it out. Take the time to do the implementation you want to.
+You should think about and explore the ideas, concepts, and practices that are out there for good SOLID/OOP. The SOLID/OOP practices you use and apply in this phase will guide the next phase.
+### Process
+* Create a branch for the requirements to be implemented in. The first branch is FeatureSet01.
+* I provide a set of requirements in this ReadMe.md in your FeatureSetXX branch.
+* You implement those requirements in that branch. Focus on SOLID and OOP pracitces, principles, and patterns.
+* When you are ready for the next set of requirements, create a Pull Request to the 'dev' branch
+* I'll review/approve the Pull Request with any comments/guidance I want to provide.
+* Once we're both satisfied with the state of the code; we start back at the top with another set of requirements.
+
+## Phase 2
+Once you've completed the requirements with your best effort at SOLID/OOP, we move to phase 2. How phase 1 goes will direct how phase 2 goes.
+
+We might start back over with the end state of FeatureSet01 and refactor the code into better SOLID/OOP code. Then build ontop of that with better understanding of the ideas.
+
+We might use the end state and refactor it into better SOLID/OOP code.
+
+I don't know. This is where the training will become VERY personalized. Where you are and what I think will best help you learn the OOP patterns, principles, and practiecds is where we'll start.
+
+As we go through this, we'll have discussions about what I think should change and how and why. This isn't an exercise to get a right answer, but to increase your understanding of how to make better SOLID/OOP code.
+
  
 ## Testing
 As the scenario specifices, there's no need for a UI, but we need to be able to verify our code works. We will use a Unit Test framework for this; which is why the solution starts with a Test Project.
