@@ -42,7 +42,7 @@ I don't know. This is where the training will become VERY personalized. Where yo
 As we go through this, we'll have discussions about what I think should change and how and why. This isn't an exercise to get a right answer, but to increase your understanding of how to make better SOLID/OOP code.
 
  
-## Testing
+# Testing
 As the scenario specifices, there's no need for a UI, but we need to be able to verify our code works. We will use a Unit Test framework for this; which is why the solution starts with a Test Project.
 Unit Testing is a standard practice in the industry and it's good to do. While not the focus of this training, much like Git, it's a technique for quality code that we'll use during this training.
 
