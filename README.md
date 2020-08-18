@@ -28,18 +28,20 @@ You should think about and explore the ideas, concepts, and practices that are o
 * You implement those requirements in that branch. Focus on SOLID and OOP pracitces, principles, and patterns.
 * When you are ready for the next set of requirements, create a Pull Request to the 'dev' branch
 * I'll review/approve the Pull Request with any comments/guidance I want to provide.
-* Once we're both satisfied with the state of the code; we start back at the top with another set of requirements.
+* Once we're both satisfied with the state of the code; we start back at the top with the next set of requirements.
 
 ## Phase 2
-Once you've completed the requirements with your best effort at SOLID/OOP, we move to phase 2. How phase 1 goes will direct how phase 2 goes.
+Once you've completed the requirements with your best effort SOLID/OOP, we move to phase 2. How phase 1 goes will direct how phase 2 goes.
 
 We might start back over with the end state of FeatureSet01 and refactor the code into better SOLID/OOP code. Then build ontop of that with better understanding of the ideas.
 
 We might use the end state and refactor it into better SOLID/OOP code.
 
+We might do something entirely different.
+
 I don't know. This is where the training will become VERY personalized. Where you are and what I think will best help you learn the OOP patterns, principles, and practiecds is where we'll start.
 
-As we go through this, we'll have discussions about what I think should change and how and why. This isn't an exercise to get a right answer, but to increase your understanding of how to make better SOLID/OOP code.
+As we go through phase 2 in whatever form, we'll have discussions about what I think should change and how and why. This isn't an exercise to get a right answer, but to increase your understanding of the principles, patterns, and practices that make good SOLID/OOP code.
 
  
 # Testing
