@@ -5,6 +5,17 @@
     - CSharp: There should be a Solution with a ClassLibrary project and Unit Test project
     - No UI and No Database
         - The focus on this training is Object Oriented. We'll get to UI and database in later lessons. They need their own focus.
+# Requirements
+## Initial
+- The shop has 2 pizza sizes, personal for $9 and family for $18
+- There are two types of toppings; Regular for 10% of the pizza price and Meat for 15% of the pizza price.
+    - Regular Toppings: Mozzarella, Mushroom, Olives
+    - Meat Toppings: Pepperoni, Bacon, Ham
+- The following functionality is expected
+    - Create a pizza
+    - Add a topping to the pizza (before and after viewing the price/description of the pizza)
+    - Get Price of pizza (as a text type) at any time
+    - Get Description of the pizza at any time
 
 # Setup
 Fork this repo.
