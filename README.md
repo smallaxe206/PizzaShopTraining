@@ -4,7 +4,7 @@
 - Implmentation Details
     - CSharp: There should be a Solution with a ClassLibrary project and Unit Test project
     - No UI and No Database
-        - The focus on this training is Object Oriented. We'll get to UI and database in latter lessons. They need their own focus.
+        - The focus on this training is Object Oriented. We'll get to UI and database in later lessons. They need their own focus.
 
 # Setup
 Fork this repo.
@@ -43,6 +43,8 @@ I don't know. This is where the training will become VERY personalized. Where yo
 
 As we go through phase 2 in whatever form, we'll have discussions about what I think should change and how and why. This isn't an exercise to get a right answer, but to increase your understanding of the principles, patterns, and practices that make good SOLID/OOP code.
 
+## Alternaate Phase
+It's basically Phase 1 and Phase 2 combind. You follow Phase 1, and I make more OO focused comments through out.
  
 # Testing
 As the scenario specifices, there's no need for a UI, but we need to be able to verify our code works. We will use a Unit Test framework for this; which is why the solution starts with a Test Project.
