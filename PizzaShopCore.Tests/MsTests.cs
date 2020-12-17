@@ -27,6 +27,7 @@ namespace PizzaShopCore.Tests
         }
     }
 
+    // Testing push functionality
     public class Pizza : IPizza
     {
 	    public bool IsCreated { get; set; }
